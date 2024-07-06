@@ -1,4 +1,4 @@
-## 🤖 I can bot literally anything 🤖
+## 🤖 I can automate/bot literally anything 
 
 <a href="https://github.com/connor9994/GitHub-Language-Stats">
 <img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
