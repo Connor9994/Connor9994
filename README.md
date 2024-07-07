@@ -1,5 +1,9 @@
-## 🤖 I can automate/bot literally anything 
-**As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow. – Doug McIlroy**
+## 👋🏻 I can automate/bot literally anything 
+**As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)**
+
+**Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)**
+
+**Automated testing is a safety net that protects the program from its programmers 🐛 (Yegor Bugayenko)**
 
 <a href="https://github.com/connor9994/GitHub-Language-Stats">
 <img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
