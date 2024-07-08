@@ -18,10 +18,10 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
 C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | WebAssembly | Shell | MATLAB | LabView
 
 ### Tools & Technologies:
-- **Development:** AutoCAD / OrCAD / Solidworks, Adobe Creative Suite, Powershell
-- **Data Analysis:** Power BI, Tableau, MATLAB
-- **Operating Systems:** Linux (Kali + Fedora), Office 365 Administration
-- **Hardware:** PLCs (Rockwell, Siemens), Biosignal Analysis
+- **Development:** AutoCAD / OrCAD / Solidworks / Adobe Creative Suite
+- **Data Analysis:** Power BI / Tableau
+- **Operating Systems:** Linux (Kali + Fedora) / Office 365 Administration
+- **Hardware:** PLCs (Rockwell, Siemens) / Biosignal Analysis (X-Ray/CT, MRI, Ultrasound, PET/SPECT)
 
 ## 💼 Work Experience
 ### TANYR Healthcare:
