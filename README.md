@@ -48,9 +48,28 @@ Feel free to reach out for collaboration opportunities, technical discussion, or
 ```
 
 ```mermaid
-graph TD;
-    Discover_Problem-->GitHub;
-    GitHub-->Find_Connor's_Profile;
-    Find_Connor's_Profile-->Hire_Connor;
-    Hire_Connor-->Problem_Solved;
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Find Connor's Profile] --> bottom1[Hire Connor 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "https://www.linkedin.com/in/connor-kaiser-6a335a316/" "LinkedIn"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
 ```
