@@ -38,8 +38,6 @@ C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | We
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/connor-kaiser-6a335a316/)
-
 ### Want to Send Me An Email?
 ```html
 <input id=username type="text" placeholder="github username or repo link" value="Connor9994">
