@@ -60,10 +60,10 @@ flowchart LR
     end
 
     %% Link to subgraph1
-    3[Discover Problem] --> 1
+    3[Discover Problem 🐛] --> 1
 
     %% Link within subgraph2
-    3[Discover Problem] --> 2
+    3[Discover Problem 🐛] --> 2
 
     1 --> outside1["Profit" 📈]
     2 --> outside2["Cry" 😢]
