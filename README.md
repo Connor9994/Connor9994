@@ -39,3 +39,18 @@ C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | We
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/connor-kaiser-6a335a316/)
+
+### Want to Send Me An Email?
+```html
+<input id=username type="text" placeholder="github username or repo link">
+<button onclick="fetch(`https://api.github.com/users/${username.value.replace(/^.*com[/]([^/]*).*$/,'$1')}/events/public`).then(e=> e.json()).then(e => [...new Set([].concat.apply([],e.filter(x => x.type==='PushEvent').map(x => x.payload.commits.map(c => c.author.email)))).values()]).then(x => results.innerText = x)">GO</button>
+<div id=results></div>
+```
+
+```mermaid
+graph TD;
+    Discover_Problem-->GitHub;
+    GitHub-->Find_Connor's_Profile;
+    Find_Connor's_Profile-->Hire_Connor;
+    Hire_Connor-->Problem_Solved;
+```
