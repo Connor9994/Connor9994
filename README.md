@@ -51,15 +51,15 @@ C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | We
   </tr>
   <tr>
     <td>Salesforce add-ons <br></td>
-    <td><img src="https://github.com/user-attachments/assets/58808f9f-9f72-46e3-89e1-d65d65db3f95" width="70" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/58808f9f-9f72-46e3-89e1-d65d65db3f95" width="60" height="40"></td>
   </tr>
   <tr>
     <td>Social media bots<br></td>
-    <td><img src="https://github.com/user-attachments/assets/27a62f46-cb42-462c-87dd-d379e999e6e7" width="70" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/27a62f46-cb42-462c-87dd-d379e999e6e7" width="60" height="40"></td>
   </tr>
   <tr>
     <td>SPY trading-strategy generators<br></td>
-    <td><img src="https://github.com/user-attachments/assets/b5411cb5-32c8-4556-96ca-aeaf0f19ff61" width="70" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/b5411cb5-32c8-4556-96ca-aeaf0f19ff61" width="60" height="40"></td>
   </tr>
 </table>
 
