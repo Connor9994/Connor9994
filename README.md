@@ -32,8 +32,36 @@ C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | We
 - **Product Support Engineer:** Provided technical support, developed automated utilities, and conducted field-service trips for troubleshooting.
 
 ## 🌟 Fun Projects:
-- Developed a Spotify Auto-viewer Bot, a WoW fishing bot, a Bitcoin trading bot, and various healthcare applications (compliant with HIPPA regulations).
-- Proficient in building Salesforce add-ons, social media bots, and SPY trading-strategy generators.
+<table style="width: 100%;">
+  <tr>
+    <td>Spotify Auto-Viewer<br>Spotify Account-Creator</td>
+    <td><img src="https://github.com/user-attachments/assets/a1ae3576-3ec2-465d-a4e8-cfd25f3a3966" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <td>WoW fishing bot<br>(Normal/Classic)</td>
+    <td><img src="https://github.com/user-attachments/assets/45519b06-6fa8-4b70-a91e-d7a90db5b5ac" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <td>Bitcoin trading bot<br></td>
+    <td><img src="https://github.com/user-attachments/assets/0c96a7fa-4272-4e0c-a3d7-6e2d62bd7f6b" width="60" height="50"></td>
+  </tr>
+  <tr>
+    <td>Various healthcare applications<br>(compliant with HIPAA regulations)</td>
+    <td><img src="https://github.com/user-attachments/assets/632ec923-7b88-4004-936c-3b866a7af5e2" width="60" height="60"></td>
+  </tr>
+  <tr>
+    <td>Salesforce add-ons <br></td>
+    <td><img src="https://github.com/user-attachments/assets/58808f9f-9f72-46e3-89e1-d65d65db3f95" width="70" height="50"></td>
+  </tr>
+  <tr>
+    <td>Social media bots<br></td>
+    <td><img src="https://github.com/user-attachments/assets/27a62f46-cb42-462c-87dd-d379e999e6e7" width="70" height="50"></td>
+  </tr>
+  <tr>
+    <td>SPY trading-strategy generators<br></td>
+    <td><img src="https://github.com/user-attachments/assets/b5411cb5-32c8-4556-96ca-aeaf0f19ff61" width="70" height="50"></td>
+  </tr>
+</table>
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
