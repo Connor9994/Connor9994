@@ -18,8 +18,9 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
 C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | WebAssembly | Shell | MATLAB | LabView
 
 ### Tools & Technologies:
-- **Development:** AutoCAD / OrCAD / Solidworks / Adobe Creative Suite
-- **Data Analysis:** Power BI / Tableau
+- **Development:** AutoCAD <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / Solidworks <img src="https://github.com/user-attachments/assets/4d510637-5cc8-40ba-9c22-8491187feb53" width="20" height="20"> / Adobe Creative Suite <img src="https://github.com/user-attachments/assets/bc0363d2-ad28-4ae2-aa1e-ee37dc07ec4c" width="20" height="20">
+- **Data Analysis:** Power BI <img src="https://github.com/user-attachments/assets/684de246-990a-465a-9763-93b07357746b" width="20" height="20"> / Tableau <img src="https://github.com/user-attachments/assets/564b36e4-1168-4575-8e1f-0d4696cddd7a" width="20" height="20">
+
 - **Operating Systems:** Linux (Kali + Fedora) / Office 365 Administration
 - **Hardware:** PLCs (Rockwell, Siemens) / Biosignal Analysis (X-Ray/CT, MRI, Ultrasound, PET/SPECT)
 
@@ -35,11 +36,11 @@ C/C++/C# | Python | JavaScript | Lua | PowerShell | HTML | CSS | AutoHotKey | We
 <table style="width: 100%;">
   <tr>
     <td>Spotify Auto-Viewer<br>Spotify Account-Creator</td>
-    <td><img src="https://github.com/user-attachments/assets/a1ae3576-3ec2-465d-a4e8-cfd25f3a3966" width="50" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/a1ae3576-3ec2-465d-a4e8-cfd25f3a3966" width="60" height="60"></td>
   </tr>
   <tr>
     <td>WoW fishing bot<br>(Normal/Classic)</td>
-    <td><img src="https://github.com/user-attachments/assets/45519b06-6fa8-4b70-a91e-d7a90db5b5ac" width="50" height="50"></td>
+    <td><img src="https://github.com/user-attachments/assets/45519b06-6fa8-4b70-a91e-d7a90db5b5ac" width="60" height="60"></td>
   </tr>
   <tr>
     <td>Bitcoin trading bot<br></td>
