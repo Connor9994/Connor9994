@@ -10,6 +10,9 @@
 <img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+# Most Recent Project
+[LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot)
+
 ## 🚀 About Me
 I am a versatile Frontend Developer with a passion for problem-solving and innovation. With a background in Biomedical Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
 
