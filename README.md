@@ -79,7 +79,8 @@ Feel free to reach out for collaboration opportunities, technical discussion, or
 
 ### Want to Send Me An Email?
 ```html
-<!-- This worked for years (until 7/14/2024) when I decided to tell GitHub about the problem via LinkedIn -->
+<!-- This worked for years (until 7/14/2024) when I told GitHub about the problem via LinkedIn -->
+<!-- /events is finally now hidden -->
 <input id=username type="text" placeholder="github username or repo link" value="Connor9994">
 <button onclick="fetch(`https://api.github.com/users/${username.value.replace(/^.*com[/]([^/]*).*$/,'$1')}/events/public`).then(e=> e.json()).then(e => [...new Set([].concat.apply([],e.filter(x => x.type==='PushEvent').map(x => x.payload.commits.map(c => c.author.email)))).values()]).then(x => results.innerText = x)">GO</button>
 <div id=results></div>
