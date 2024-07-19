@@ -57,7 +57,7 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
     <td><img src="https://github.com/user-attachments/assets/0c96a7fa-4272-4e0c-a3d7-6e2d62bd7f6b" width="60" height="50"></td>
   </tr>
   <tr>
-    <td>Various healthcare applications<br>(compliant with HIPAA regulations)</td>
+    <td>Healthcare applications<br>(HIPAA compliant)</td>
     <td><img src="https://github.com/user-attachments/assets/632ec923-7b88-4004-936c-3b866a7af5e2" width="60" height="60"></td>
   </tr>
   <tr>
