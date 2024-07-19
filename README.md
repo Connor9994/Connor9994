@@ -10,7 +10,7 @@
 <img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-# Most Recent Project
+## Most Recent Project
 [LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot)
 
 ## 🚀 About Me
