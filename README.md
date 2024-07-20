@@ -12,10 +12,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Connor9994)
 
+
 ## Most Recent Project(s)
 | Project         |                                               |
 |------------------|-----------------------------------------------------|
 | [LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
+| SoundCloud Bot| <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="500" height="400"> |
+
 
 ## 🚀 About Me
 I am a versatile Frontend Developer with a passion for problem-solving and innovation. With a background in Biomedical Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
