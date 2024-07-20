@@ -10,6 +10,8 @@
 <img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Connor9994.LinkedIn-Follower-Bot)
+
 ## Most Recent Project(s)
 | Project         |                                               |
 |------------------|-----------------------------------------------------|
