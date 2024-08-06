@@ -18,7 +18,7 @@
 |------------------|-----------------------------------------------------|
 | [LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | SoundCloud Bot| <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="500" height="400"> |
-| OSM Fish (/etc) Store Finder|<img src="https://github.com/user-attachments/assets/72c24863-4b3d-48d7-9743-68da8b96ea92" width="400" height="200">|
+| [OSM Fish (/etc) Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)|<img src="https://github.com/user-attachments/assets/72c24863-4b3d-48d7-9743-68da8b96ea92" width="400" height="200">|
 
 
 ## 🚀 About Me
