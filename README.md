@@ -1,4 +1,4 @@
-## 👋🏻 I can automate/bot literally anything 
+## 👋🏻 I can automate/bot anything 
 **As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow 🤖 (Doug McIlroy)**
 
 **Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)**
