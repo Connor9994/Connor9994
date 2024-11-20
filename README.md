@@ -25,7 +25,7 @@
 ## Old Project(s)
 | Project         |                                               |
 |------------------|-----------------------------------------------------|
-| Unreal Engine (2018) | <a href="http://www.youtube.com/watch?v=KAIwvnvdOec" title="Adventureland Gameplay"> <img src="https://github.com/user-attachments/assets/37bcdac4-f8bb-4764-a2e7-536285805d48" alt="Adventureland Gameplay" width="480" height="270"/>
+| Unreal Engine (2018) <br> Click for Video -> | <a href="http://www.youtube.com/watch?v=KAIwvnvdOec" title="Adventureland Gameplay"> <img src="https://github.com/user-attachments/assets/37bcdac4-f8bb-4764-a2e7-536285805d48" alt="Adventureland Gameplay" width="480" height="270"/>
 </a>|
 
 ## 🚀 About Me
