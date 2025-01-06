@@ -20,7 +20,6 @@
 | [LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | [Discord Auto Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)| <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40">|
 | SoundCloud Bot| <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="500" height="400"> |
-| Fortnite Leveler| <img src="https://github.com/user-attachments/assets/447c4ff8-04f6-4fc5-9113-cfc29a45461c" width="500" height="300">|
 | [OSM Fish (/etc) Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)|<img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300">|
 
 ## Old Project(s)
