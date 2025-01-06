@@ -16,7 +16,7 @@
 ## Most Recent Project(s)
 | Project         |                                               |
 |------------------|-----------------------------------------------------|
-| [Ultimate Game Bot Guide](https://github.com/Connor9994/Game-Bots) |<img src="https://github.com/Connor9994/Game-Bots/blob/main/5_OSRS/Draynor%20Willows.gif" width="400" height="259">|
+| [Ultimate Game Bot Guide](https://github.com/Connor9994/Game-Bots) |<img src="https://github.com/Connor9994/Game-Bots/blob/main/Gifs/Draynor%20Willows.gif" width="400" height="259">|
 | [LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | [Discord Auto Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)| <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40">|
 | SoundCloud Bot| <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="500" height="400"> |
