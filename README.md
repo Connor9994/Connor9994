@@ -24,11 +24,37 @@
 | SoundCloud Bot| <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="500" height="400"> |
 | [OSM Fish (/etc) Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)|<img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300">|
 
-## Old Project(s)
-| Project         |                                               |
-|------------------|-----------------------------------------------------|
-| Unreal Engine (2018) <br> Click for Video -> | <a href="http://www.youtube.com/watch?v=KAIwvnvdOec" title="Adventureland Gameplay"> <img src="https://github.com/user-attachments/assets/37bcdac4-f8bb-4764-a2e7-536285805d48" alt="Adventureland Gameplay" width="480" height="270"/>
-</a>|
+## 🌟 Fun Projects:
+<table style="width: 100%;">
+  <tr>
+    <td>Spotify Auto-Viewer<br>Spotify Account-Creator</td>
+    <td><img src="https://github.com/user-attachments/assets/a1ae3576-3ec2-465d-a4e8-cfd25f3a3966" width="60" height="60"></td>
+  </tr>
+  <tr>
+    <td>WoW fishing bot<br>(Normal/Classic)</td>
+    <td><img src="https://github.com/user-attachments/assets/45519b06-6fa8-4b70-a91e-d7a90db5b5ac" width="60" height="60"></td>
+  </tr>
+  <tr>
+    <td>Bitcoin trading bot<br></td>
+    <td><img src="https://github.com/user-attachments/assets/0c96a7fa-4272-4e0c-a3d7-6e2d62bd7f6b" width="60" height="50"></td>
+  </tr>
+  <tr>
+    <td>Healthcare applications<br>(HIPAA compliant)</td>
+    <td><img src="https://github.com/user-attachments/assets/632ec923-7b88-4004-936c-3b866a7af5e2" width="60" height="60"></td>
+  </tr>
+  <tr>
+    <td>Salesforce add-ons <br></td>
+    <td><img src="https://github.com/user-attachments/assets/58808f9f-9f72-46e3-89e1-d65d65db3f95" width="60" height="40"></td>
+  </tr>
+  <tr>
+    <td>Social media bots<br></td>
+    <td><img src="https://github.com/user-attachments/assets/27a62f46-cb42-462c-87dd-d379e999e6e7" width="60" height="40"></td>
+  </tr>
+  <tr>
+    <td>SPY trading-strategy generators<br></td>
+    <td><img src="https://github.com/user-attachments/assets/b5411cb5-32c8-4556-96ca-aeaf0f19ff61" width="60" height="40"></td>
+  </tr>
+</table>
 
 ## 🚀 About Me
 I am a versatile Frontend Developer with a passion for problem-solving and innovation. With a background in Biomedical Engineering and hands-on experience in developing automation tools, I bring a unique perspective to software development and technical support.
@@ -62,37 +88,11 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
 ### OSIsoft:
 - **Product Support Engineer:** Provided technical support, developed automated utilities, and conducted field-service trips for troubleshooting.
 
-## 🌟 Fun Projects:
-<table style="width: 100%;">
-  <tr>
-    <td>Spotify Auto-Viewer<br>Spotify Account-Creator</td>
-    <td><img src="https://github.com/user-attachments/assets/a1ae3576-3ec2-465d-a4e8-cfd25f3a3966" width="60" height="60"></td>
-  </tr>
-  <tr>
-    <td>WoW fishing bot<br>(Normal/Classic)</td>
-    <td><img src="https://github.com/user-attachments/assets/45519b06-6fa8-4b70-a91e-d7a90db5b5ac" width="60" height="60"></td>
-  </tr>
-  <tr>
-    <td>Bitcoin trading bot<br></td>
-    <td><img src="https://github.com/user-attachments/assets/0c96a7fa-4272-4e0c-a3d7-6e2d62bd7f6b" width="60" height="50"></td>
-  </tr>
-  <tr>
-    <td>Healthcare applications<br>(HIPAA compliant)</td>
-    <td><img src="https://github.com/user-attachments/assets/632ec923-7b88-4004-936c-3b866a7af5e2" width="60" height="60"></td>
-  </tr>
-  <tr>
-    <td>Salesforce add-ons <br></td>
-    <td><img src="https://github.com/user-attachments/assets/58808f9f-9f72-46e3-89e1-d65d65db3f95" width="60" height="40"></td>
-  </tr>
-  <tr>
-    <td>Social media bots<br></td>
-    <td><img src="https://github.com/user-attachments/assets/27a62f46-cb42-462c-87dd-d379e999e6e7" width="60" height="40"></td>
-  </tr>
-  <tr>
-    <td>SPY trading-strategy generators<br></td>
-    <td><img src="https://github.com/user-attachments/assets/b5411cb5-32c8-4556-96ca-aeaf0f19ff61" width="60" height="40"></td>
-  </tr>
-</table>
+## Old Project(s)
+| Project         |                                               |
+|------------------|-----------------------------------------------------|
+| Unreal Engine (2018) <br> Click for Video -> | <a href="http://www.youtube.com/watch?v=KAIwvnvdOec" title="Adventureland Gameplay"> <img src="https://github.com/user-attachments/assets/37bcdac4-f8bb-4764-a2e7-536285805d48" alt="Adventureland Gameplay" width="480" height="270"/>
+</a>|
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
