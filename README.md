@@ -80,12 +80,19 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
 | Biosignal Analysis | X-Ray/CT <img src="https://github.com/user-attachments/assets/281fb76b-7174-4816-ac11-e5887fa19799" width="20" height="20">, MRI <img src="https://github.com/user-attachments/assets/2dc191b6-ce74-44a4-bf9c-b1c7687c4b76" width="20" height="20">, Ultrasound <img src="https://github.com/user-attachments/assets/bb3df015-a887-4918-ac20-a00c9d9641ac" width="20" height="20">, PET/SPECT <img src="https://github.com/user-attachments/assets/c89c36d3-6cdb-4c7e-8600-61b42766010d" width="20" height="20"> |
 
 ## 💼 Work Experience
+### R2 Health (**Development Contractor**):
+- Executed transitional services for clients migrating to R2 Health's revenue cycle management solutions,
+ensuring a seamless integration process.
+- Collaborated on the development of innovative features to optimize software functionality and drive
+operational efficiency.
+- Delivered comprehensive user support to enhance the client experience and streamline adaptation to the software platform.
+
 ### TANYR Healthcare:
 - **Frontend Developer:** Utilized various technologies for efficient data handling and report generation.
 - **Information Technology Specialist:** Developed software for workflow automation and ensured data security compliance.
 
-### OSIsoft:
-- **Product Support Engineer:** Provided technical support, developed automated utilities, and conducted field-service trips for troubleshooting.
+### OSIsoft (**Product Support Engineer**):
+- Provided technical support, developed automated utilities, and conducted field-service trips for troubleshooting.
 
 ## Old Project(s)
 | Project         |                                               |
