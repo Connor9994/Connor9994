@@ -23,6 +23,7 @@
 | **[Always On Top<br>(Desktop Pins)](https://www.ebay.com/itm/306052226550)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="450" height="259"> |
 | **[LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot)** | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | **[Discord Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)** | <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40"> |
+| **[Twitter Filter](https://github.com/Connor9994/Twitter-Filter)** | <img src="https://github.com/user-attachments/assets/0a7e0dea-b1d4-4a90-a7eb-334ebb897d1a" width="40" height="40"> |
 | **SoundCloud Bot** | <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="450" height="400"> |
 | **[Ultimate Game Bot Guide](https://github.com/Connor9994/Game-Bots)** | <img src="https://github.com/Connor9994/Game-Bots/blob/main/Gifs/Promo.gif" width="450" height="259"> |
 | **[OSM Fish (/etc)<br>Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)** | <img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300"> |
