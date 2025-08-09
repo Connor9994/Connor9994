@@ -15,12 +15,12 @@
 ## Most Recent Project(s)
 | Project         |                                               |
 | :-------------------------: | ------------------------------ |
-| **[Media Converter, Downloader,<br> PDF Editor, and Transcription Tool](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/user-attachments/assets/f6f3c1cf-93d0-4321-b4c3-692341514289" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
-| **[View Bot<br>(User Agent + Proxy Support)](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/user-attachments/assets/1ac315eb-e398-4d4f-9a87-97be17c262a0" width="450" height="259"> |
-| **[Auto Clicker](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/Connor9994/GitHub-Language-Stats/blob/master/Clicker.gif" width="450" height="259"> |
-| **[Hide Apps Fast<br>(Panic Button)](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/user-attachments/assets/5635735d-478b-4ae8-91d5-a422cc64dd0e" width="450" height="259"> |
-| **[File Cleaner](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/user-attachments/assets/b9e9b481-fb99-43bd-b9c1-cddfa2e76cb3" width="450" height="259"> |
-| **[Always On Top<br>(Desktop Pins)](https://www.ebay.com/str/homesteadharvest)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="450" height="259"> |
+| **[Media Converter, Downloader,<br> PDF Editor, and Transcription Tool]()** | <img src="https://github.com/user-attachments/assets/f6f3c1cf-93d0-4321-b4c3-692341514289" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
+| **[View Bot<br>(User Agent + Proxy Support)]()** | <img src="https://github.com/user-attachments/assets/1ac315eb-e398-4d4f-9a87-97be17c262a0" width="450" height="259"> |
+| **[Auto Clicker]()** | <img src="https://github.com/Connor9994/GitHub-Language-Stats/blob/master/Clicker.gif" width="450" height="259"> |
+| **[Hide Apps Fast<br>(Panic Button)]()** | <img src="https://github.com/user-attachments/assets/5635735d-478b-4ae8-91d5-a422cc64dd0e" width="450" height="259"> |
+| **[File Cleaner]()** | <img src="https://github.com/user-attachments/assets/b9e9b481-fb99-43bd-b9c1-cddfa2e76cb3" width="450" height="259"> |
+| **[Always On Top<br>(Desktop Pins)]()** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="450" height="259"> |
 | **[LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot)** | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | **[Discord Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)** | <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40"> |
 | **[Twitter Filter](https://github.com/Connor9994/Twitter-Filter)** | <img src="https://github.com/user-attachments/assets/0a7e0dea-b1d4-4a90-a7eb-334ebb897d1a" width="40" height="40"> |
