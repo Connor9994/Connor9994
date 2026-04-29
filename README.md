@@ -79,8 +79,8 @@ I am a versatile Frontend Developer with a passion for problem-solving and innov
 |MATLAB| <img src="https://github.com/user-attachments/assets/8c7f32d1-305f-4c55-b820-b3d7e5d21891" width="20" height="20"> |LabView| <img src="https://github.com/user-attachments/assets/3a9519d1-1b2d-4dec-84f9-eb3380c80402" width="20" height="20">|
 
 ### Tools & Technologies:
-| Category         | Tools                                               |
-|------------------|-----------------------------------------------------|
+| Category         | Tools                                                             |
+|------------------|-------------------------------------------------------------------|
 | Development      | AutoCAD <img src="https://github.com/user-attachments/assets/4014f086-e0d4-46b6-9c04-990b08c93687" width="20" height="20"> / Solidworks <img src="https://github.com/user-attachments/assets/4d510637-5cc8-40ba-9c22-8491187feb53" width="20" height="20"> / Adobe Creative Suite <img src="https://github.com/user-attachments/assets/bc0363d2-ad28-4ae2-aa1e-ee37dc07ec4c" width="20" height="20"> |
 | Data Analysis    | Power BI <img src="https://github.com/user-attachments/assets/684de246-990a-465a-9763-93b07357746b" width="20" height="20"> / Tableau <img src="https://github.com/user-attachments/assets/564b36e4-1168-4575-8e1f-0d4696cddd7a" width="20" height="20"> / Office 365 Administration <img src="https://github.com/user-attachments/assets/516f44a3-e35b-4bc9-a6e8-7a3dfe6be484" width="20" height="20"> |
 | Operating Systems| Linux <img src="https://github.com/user-attachments/assets/514bd9f7-1d74-43c3-9859-c56a8d2b97ba" width="20" height="20"> (Kali <img src="https://github.com/user-attachments/assets/f91d637c-7366-4854-9f66-796d874c70e2" width="20" height="20"> + Fedora <img src="https://github.com/user-attachments/assets/edf0f172-afdf-44fa-8a87-fbcabf3d2f23" width="20" height="20"> + Qubes <img src="https://github.com/user-attachments/assets/38a6be4d-d859-47c3-963d-35c7bd2b3f56" width="20" height="20">)  |
