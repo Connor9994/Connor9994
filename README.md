@@ -20,7 +20,7 @@
 | **[Discord Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)** | <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40"> |
 | **[Twitter Filter](https://github.com/Connor9994/Twitter-Filter)** | <img src="https://github.com/user-attachments/assets/0a7e0dea-b1d4-4a90-a7eb-334ebb897d1a" width="40" height="40"> |
 | **[Dale & Dawson Task Generator](https://github.com/Connor9994/Dale_and_Dawson_Task_Generator)** | <img width="40" height="40" src="https://github.com/user-attachments/assets/ab3ff778-2aa2-4a9e-9f63-b78c2c64fa90" /> |
-| **[Volume Mixer](https://github.com/Connor9994/VolumeMixer)** | <img width="440" height="203" alt="image" src="https://github.com/user-attachments/assets/7eca1691-d68f-47db-9440-0fa92bb2fc5c" /> |
+| **[Volume Mixer](https://github.com/Connor9994/VolumeMixer)** | <img width="440" height="203" alt="image" src="https://github.com/user-attachments/assets/c2623aa3-1416-4816-91ab-625e4482e0d3" /> |
 | **[Jackbox Party Pack Launcher](https://github.com/Connor9994/JackboxLauncher)** | <img width="400" height="306" alt="image" src="https://github.com/user-attachments/assets/b4405081-5a74-4300-b517-a2926b268182" /> |
 | **[OSM Fish (/etc)<br>Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)** | <img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300"> |
 | **Media Converter, Downloader,<br> PDF Editor, and Transcription Tool** | <img src="https://github.com/user-attachments/assets/f6f3c1cf-93d0-4321-b4c3-692341514289" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
