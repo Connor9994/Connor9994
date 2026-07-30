@@ -27,7 +27,7 @@
 | **[Auto Clicker](https://devpurple.com/auto-clicker/)** | <img src="https://github.com/user-attachments/assets/7c4af7d2-9aab-4327-93e9-6556a15427ea" width="350" height="300"> |
 | **[Hide Apps Fast<br>(Panic Button)](https://devpurple.com/panic-button/)** | <img src="https://github.com/user-attachments/assets/5635735d-478b-4ae8-91d5-a422cc64dd0e" width="450" height="259"> |
 | **[File Cleaner](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/0f304275-0d5b-4b37-92b0-18093ceb18dc" width="450" height="259"> |
-| **[Always On Top<br>(Desktop Pins)](https://devpurple.com/app-pins/)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="450" height="259"> |
+| **[Always On Top<br>(Desktop Pins)](https://devpurple.com/app-pins/)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="400" height="259"> |
 | **SoundCloud Bot** | <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="450" height="400"> |
 
 ## 🌟 Fun Projects:
