@@ -23,7 +23,7 @@
 | **[Jackbox Party Pack Launcher](https://github.com/Connor9994/JackboxLauncher)** | <img width="400" height="306" alt="image" src="https://github.com/user-attachments/assets/b4405081-5a74-4300-b517-a2926b268182" /> |
 | **[OSM Fish (/etc)<br>Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)** | <img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300"> |
 | **Media Converter, Downloader,<br> and PDF Editor** | <img src="https://github.com/user-attachments/assets/f6f3c1cf-93d0-4321-b4c3-692341514289" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
-| **[View Bot<br>(User Agent + Proxy Support)](https://devpurple.com/view-bot/)** | <img src="https://github.com/user-attachments/assets/1ac315eb-e398-4d4f-9a87-97be17c262a0" width="450" height="259"> |
+| **[View Bot<br>(User Agent + Proxy Support)](https://devpurple.com/view-bot/)** | <img src="https://github.com/user-attachments/assets/3b3eb4c8-af05-4721-86fc-62deebe11e51" width="450" height="259"> |
 | **[Auto Clicker](https://devpurple.com/auto-clicker/)** | <img src="https://github.com/user-attachments/assets/7c4af7d2-9aab-4327-93e9-6556a15427ea" width="350" height="300"> |
 | **[Hide Apps Fast<br>(Panic Button)](https://devpurple.com/panic-button/)** | <img src="https://github.com/user-attachments/assets/5635735d-478b-4ae8-91d5-a422cc64dd0e" width="450" height="259"> |
 | **[File Cleaner](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/0f304275-0d5b-4b37-92b0-18093ceb18dc" width="450" height="259"> |
