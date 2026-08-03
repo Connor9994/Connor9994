@@ -14,7 +14,7 @@
 
 ## Most Recent Project(s)
 | Project         |                                               |
-| :-------------------------: | ------------------------------ |
+| :-------------------------: | :------------------------------: |
 | **[Ultimate Game Bot Guide](https://github.com/Connor9994/Game-Bots)** | <img src="https://github.com/Connor9994/Game-Bots/blob/main/Gifs/Promo.gif" width="450" height="259"> |
 | **[LinkedIn Follower Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot)** | <img src="https://github.com/user-attachments/assets/9115aa71-ea52-4fb3-b629-b1a1b5833515" width="40" height="40"> |
 | **[Discord Name-Changer](https://github.com/Connor9994/Discord-Name-Bot)** | <img src="https://github.com/user-attachments/assets/cc342a61-1d6a-49fd-8ac1-c676cdaa6053" width="40" height="40"> |
