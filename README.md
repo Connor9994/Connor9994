@@ -22,12 +22,14 @@
 | **[Dale & Dawson Task Generator](https://github.com/Connor9994/Dale_and_Dawson_Task_Generator)** | <img width="40" height="40" src="https://github.com/user-attachments/assets/ab3ff778-2aa2-4a9e-9f63-b78c2c64fa90" /> |
 | **[Jackbox Party Pack Launcher](https://github.com/Connor9994/JackboxLauncher)** | <img width="400" height="306" alt="image" src="https://github.com/user-attachments/assets/b4405081-5a74-4300-b517-a2926b268182" /> |
 | **[OSM Fish (/etc)<br>Store Finder](https://github.com/Connor9994/Overpass-API/tree/main)** | <img src="https://github.com/user-attachments/assets/f5bebecb-c658-4880-b92c-cbc15f8d37ac" width="300" height="300"> |
-| **Media Converter, Downloader,<br> and PDF Editor** | <img src="https://github.com/user-attachments/assets/8a39ccaf-e2c7-4a4c-97dd-c61209bbb088" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
+| **[Media Converter, Downloader,<br> and PDF Editor](https://devpurple.com/media-hub/)** | <img src="https://github.com/user-attachments/assets/8a39ccaf-e2c7-4a4c-97dd-c61209bbb088" width="220" height="259">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/6d379606-9c28-43c5-8f53-b3fc2eafad06" width="220" height="259"> |
 | **[View Bot<br>(User Agent + Proxy Support)](https://devpurple.com/view-bot/)** | <img src="https://github.com/user-attachments/assets/3b3eb4c8-af05-4721-86fc-62deebe11e51" width="450" height="259"> |
 | **[Auto Clicker](https://devpurple.com/auto-clicker/)** | <img src="https://github.com/user-attachments/assets/7c4af7d2-9aab-4327-93e9-6556a15427ea" width="350" height="300"> |
 | **[Hide Apps Fast<br>(Panic Button)](https://devpurple.com/panic-button/)** | <img src="https://github.com/user-attachments/assets/5635735d-478b-4ae8-91d5-a422cc64dd0e" width="450" height="259"> |
 | **[File Cleaner](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/0f304275-0d5b-4b37-92b0-18093ceb18dc" width="450" height="259"> |
 | **[Always On Top<br>(Desktop Pins)](https://devpurple.com/app-pins/)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="400" height="259"> |
+| **[File Cleaner (System Cleaning Utility)](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/880f9bd7-a40a-433c-88fc-c0946f3b2e9c" width="400" height="259"> |
+| **[Review Generator (AI-Powered WooCommerce Review Management Utility)](https://devpurple.com/review-generator/)** | <img src="https://github.com/user-attachments/assets/4961d219-2c6e-429c-8af0-ab5b37ead3d5" width="400" height="259"> |
 | **SoundCloud Bot** | <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="450" height="400"> |
 
 ## 🌟 Fun Projects:
