@@ -29,6 +29,7 @@
 | **[Always On Top<br>(Desktop Pins)](https://devpurple.com/app-pins/)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="400" height="259"> |
 | **[File Cleaner<br>(System Cleaning Utility)](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/880f9bd7-a40a-433c-88fc-c0946f3b2e9c" width="400" height="259"> |
 | **[Review Generator<br>(AI-Powered WooCommerce Review Management Utility)](https://devpurple.com/review-generator/)** | <img src="https://github.com/user-attachments/assets/4961d219-2c6e-429c-8af0-ab5b37ead3d5" width="400" height="259"> |
+| **[Volume Mixer (Per-Application Audio Routing & Duplication))](https://devpurple.com/volume-mixer/)** | <img src="https://github.com/user-attachments/assets/ab91d0ca-57f5-42ed-9cd8-acd7cc1c5612" width="400" height="259"> |
 | **SoundCloud Bot** | <img src="https://github.com/user-attachments/assets/865ef825-8af8-46eb-be39-e1b8c6d1d5fa" width="450" height="400"> |
 
 ## 🌟 Fun Projects:
