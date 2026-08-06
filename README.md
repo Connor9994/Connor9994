@@ -30,7 +30,7 @@
 | **[Always On Top<br>(Desktop Pins)](https://devpurple.com/app-pins/)** | <img src="https://github.com/user-attachments/assets/0fcdbf7c-4a89-464e-ac9a-39424b461cfb" width="400" height="259"> |
 | **[File Cleaner<br>(System Cleaning Utility)](https://devpurple.com/file-cleaner/)** | <img src="https://github.com/user-attachments/assets/880f9bd7-a40a-433c-88fc-c0946f3b2e9c" width="400" height="259"> |
 | **[Review Generator<br>(AI-Powered WooCommerce<br>Review Generation Utility)](https://devpurple.com/review-generator/)** | <img src="https://github.com/user-attachments/assets/4961d219-2c6e-429c-8af0-ab5b37ead3d5" width="400" height="259"> |
-| **[Volume Mixer<br>(Per-Application Audio Routing & Duplication))](https://devpurple.com/volume-mixer/)** | <img src="https://github.com/user-attachments/assets/ab91d0ca-57f5-42ed-9cd8-acd7cc1c5612" width="400" height="259"> |
+| **[Volume Mixer<br>(Per-Application Audio Routing & Duplication))](https://devpurple.com/volume-mixer/)** | <img src="https://github.com/user-attachments/assets/ab91d0ca-57f5-42ed-9cd8-acd7cc1c5612" width="350" height="350"> |
 
 ## 🌟 Fun Projects:
 <table style="width: 100%;">
